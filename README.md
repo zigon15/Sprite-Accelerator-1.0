@@ -1,2 +1,2 @@
 # Sprite-Accelerator-1.0
-[Wiki](home)
+[Wiki](https://github.com/zigon15/Sprite-Accelerator-1.0/wiki) 
